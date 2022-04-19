@@ -1,0 +1,44 @@
+/* style.css */
+body{
+  background: rgb(245,245,245);
+  font-size: 25px;
+  font-family: Helvetica;
+}
+h1{
+  font-family: Courier;
+  font-weight: lighter;
+  font-size: 10px;
+}
+h2 {
+  font-family: Courier;
+  color: pink;
+  font-weight: lighter;
+  font-size: 8px;
+}
+a {
+  color: yellow;
+}
+a:hover {
+  text-decoration: none;
+  color: purple;
+}
+
+p.gris{
+  color: #626965;
+}
+
+.rouge{
+  color: red;
+}
+
+p{
+    color: #3DCD58;
+    border: 1px solid black;
+}
+
+#principale{
+    font-family: arial;
+    font-size: 35px;
+}
+
+
